@@ -19,7 +19,7 @@ Project is created with:
 * javaScript and html
 * node.js
 * metamack
-* openzipplen erc20
+* openzipplen ERC20
 
 Some software we needed:
 * Remix - Ethereum
