@@ -21,7 +21,7 @@ Project is created with:
 * metamack
 * openzipplen erc20
 
-Some softwares we needed:
+Some software we needed:
 * Remix - Ethereum
 * Visual Studio Code
 
