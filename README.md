@@ -59,5 +59,5 @@ $ truffle compile
 $ truffle migrate
 $ truffle test
 $ cd app
-$ npm dev run 
+$ npm run dev
 ```
