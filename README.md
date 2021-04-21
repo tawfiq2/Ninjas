@@ -36,8 +36,8 @@ Some software we needed:
 	
 ## Setup
 To run this project:
-First "test" the smart contract
-Write in the terminal of VS the following commands:
+first "test" the smart contract
+write in the terminal of VS the following commands:
 
 To initiate  truffle folders:
 ```
