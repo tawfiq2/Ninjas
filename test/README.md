@@ -12,11 +12,11 @@
 
 Write in the terminal of VS the following commands:
 
-To initiat truffle folders:
+To initiate truffle folders:
 ```
 $ truffle init
 ```
-After upload the smart contract and test.js write this commands:
+After upload the smart contract and test.js write these commands:
 ```
 $ truffle develop
 $ migrate --reset
