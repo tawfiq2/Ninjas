@@ -43,16 +43,15 @@ To initiat truffle folders:
 ```
 $ truffle init
 ```
+Second: to write fronend with webpack we need to install trufful webpack:
+```
+$ npx truffle unbox webpack
+```
 After upload the smart contract and test.js write this commands:
 ```
 $ truffle develop
 $ migrate --reset
 $ test
-```
-
-Second: to write fronend with webpack we need to install trufful webpack:
-```
-$ npx truffle unbox webpack
 ```
 After done index.html and index.js write this commands:
 ```
