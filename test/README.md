@@ -8,7 +8,7 @@
  ![plot](https://www3.0zz0.com/2021/04/21/06/194022281.jpg)
 
 	
-## Testing the smart contract
+## Testing the smart contract 
 
 Write in the terminal of VS the following commands:
 
