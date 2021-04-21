@@ -1,15 +1,9 @@
-# test 
-
-## Table of contents
-* [ Smart Contract Test]( Smart Contract Test)
-* [Setup](#setup)
+# Smart Contract Test
 
 
 
 ## Smart Contract Test
  ![plot](https://www3.0zz0.com/2021/04/21/06/194022281.jpg)
-
-
 
 	
 ## Setup
